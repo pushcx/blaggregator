@@ -11,6 +11,7 @@ def generate_random_id():
 
 STREAM_CHOICES = (
     ('BLOGGING', 'blogging'),
+    ('PODCASTS', 'podcasts'),
     ('LOGS', 'Daily Logs'),
 )
 
